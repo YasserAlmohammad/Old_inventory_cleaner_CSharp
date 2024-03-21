@@ -1,0 +1,5 @@
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\InvCleaner\InvCleaner\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\InvCleaner\InvCleaner\bin\Debug\InvCleaner.exe
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\InvCleaner\InvCleaner\bin\Debug\InvCleaner.pdb
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\InvCleaner\InvCleaner\obj\Debug\InvCleaner.exe
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\InvCleaner\InvCleaner\obj\Debug\InvCleaner.pdb

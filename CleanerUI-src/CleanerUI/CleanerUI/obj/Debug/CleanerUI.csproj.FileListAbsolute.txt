@@ -1,0 +1,8 @@
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\CleanerUI\CleanerUI\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\CleanerUI\CleanerUI\obj\Debug\CleanerUI.Form1.resources
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\CleanerUI\CleanerUI\obj\Debug\CleanerUI.Properties.Resources.resources
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\CleanerUI\CleanerUI\obj\Debug\CleanerUI.csproj.GenerateResource.Cache
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\CleanerUI\CleanerUI\bin\Debug\CleanerUI.exe
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\CleanerUI\CleanerUI\bin\Debug\CleanerUI.pdb
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\CleanerUI\CleanerUI\obj\Debug\CleanerUI.exe
+F:\Users\Yasser\Documents\Visual Studio 2008\Projects\CleanerUI\CleanerUI\obj\Debug\CleanerUI.pdb
