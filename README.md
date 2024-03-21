@@ -1,6 +1,7 @@
 # Old_inventory_cleaner_CSharp
 an old C# app for cleaning inventory on an old online Game (Archlord)
 this code dates back to 2007 and 2009 for online game client manipulation and in memory information retrieval
+the app will search the game memory for certain item ids and remove them from the inventory, reads exclusions from a local text file too... this works only in Archlord, which used to be online in the past.
 
 the primary code file is like this
 
